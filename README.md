@@ -13,7 +13,7 @@
 @import "katex-mini.wxss";
 ```
 
-### 第二走：请求接口
+### 第二步：请求接口
 
 ```javascript
 wx.request({
@@ -30,7 +30,7 @@ wx.request({
 });
 ```
 
-### 第二走：放到 RichText 组件里
+### 第三步：放到 RichText 组件里
 
 ```html
 <rich-text nodes="{{ nodes }}" />
