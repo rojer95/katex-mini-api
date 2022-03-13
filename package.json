@@ -1,0 +1,23 @@
+{
+  "name": "katex-mini-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojer95/katex-mini-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojer95/katex-mini-api/issues"
+  },
+  "homepage": "https://github.com/rojer95/katex-mini-api#readme",
+  "dependencies": {
+    "@rojer/katex-mini": "^1.0.8",
+    "katex": "^0.15.2"
+  }
+}
